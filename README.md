@@ -4,6 +4,9 @@ Given a linkedin post, it gives various info about post such as summary, cta,
 bias, misinformation, tone etc. Finally, it tells you whether the post is
 positive or negative, and a list actions the reader should take if there is any.
 
+Note: This is just a demo; minimal effort was made for error handling and optimization.  Also, for now, it uses the unofficial LinkedIn API, which may be against their terms.
+
+
 
 
 
